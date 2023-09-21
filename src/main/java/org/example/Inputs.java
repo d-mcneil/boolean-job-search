@@ -6,13 +6,17 @@ public class Inputs {
             "jr",
             "entry level",
             "entry-level",
-            "associate"
+            "associate",
+            "1"
     };
 
     public static final String[] LABELS = {
             "software",
             "web",
             "application",
+            "applications",
+            "apps",
+            "app",
             "back end",
             "back-end",
             "front end",
@@ -30,7 +34,8 @@ public class Inputs {
     public static final String[] POSITIONS = {
             "developer",
             "engineer",
-            "coder"
+            "coder",
+            "programmer"
     } ;
 
 }
